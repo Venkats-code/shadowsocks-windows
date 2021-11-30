@@ -5,6 +5,7 @@ namespace Shadowsocks.CLI
         SsRust,
         V2Ray,
         Legacy,
-        Pipelines,
+        Pipeline,
     }
 }
+
